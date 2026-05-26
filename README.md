@@ -337,11 +337,11 @@ Includes:
 
 * Financial Analysis
 
-* Profitability analysis
+* Profitability Analysis
 
-* Operational efficiency analysis
+* Operational efficiency Analysis
 
-* Cash flow analysis
+* Cash flow Analysis
 
 ## Tools Used
 
